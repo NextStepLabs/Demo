@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="checkQRCode">Проверить QR код</string>
+    <string name="allUsers">Все пользователи</string>
+    <string name="passedTrash">Количество мусора в кг</string>
+    <string name="truely_sorted">Правильно отсортирован</string>
+    <string name="wrongly_sorted">Неправильно отсортирован</string>
+    <string name="add">Добавить</string>
+    <string name="fullInf">Полная информация</string>
+</resources>

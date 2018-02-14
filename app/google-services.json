@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1039307805371",
+    "firebase_url": "https://fir-cc340.firebaseio.com",
+    "project_id": "fir-cc340",
+    "storage_bucket": "fir-cc340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039307805371:android:872f02ac2d4fb0b7",
+        "android_client_info": {
+          "package_name": "kz.mytazalyk.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039307805371-4b3qmo0l0e1ofjv4hbdm72h7duqhvvdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYhF2JhRG3__dk-nT-7BTsMigAieqvvGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
